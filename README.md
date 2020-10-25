@@ -1,5 +1,7 @@
 
-[![HitCount](http://hits.dwyl.com/sanariaz154/sanariaz154.svg)](http://hits.dwyl.com/sanariaz154/sanariaz154)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanariaz154r&style=flat&color=blueviolet" alt=sanariaz/> </p>
+
+
  ###  Hi there :raising_hand: 
 <!--
 **sanariaz154/sanariaz154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
