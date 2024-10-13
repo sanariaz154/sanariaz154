@@ -29,7 +29,7 @@ My current research interests focus on Computer Vision, Deep Learning, one/few s
 
 * 💬 Feel free to ask me about Deep Learning, Python, Tensorflow / Keras, Linux, Machine Learning, Php, NLP (Bert, Albert and feedback based learning mechanisms).
 * 📖 Learning about Machine Learning, Computer Vision and Psychology
-* ⚡ You can checkout my sketches here [@esoteric_whoosis](https://www.instagram.com/esoteric_whoosis/)
+
 <!--
 ![Sana's github stats](https://github-readme-stats.vercel.app/api?username=sanariaz154&show_icons=true&hide_border=true)  -->
 
